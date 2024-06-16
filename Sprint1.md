@@ -19,7 +19,7 @@ A primeira etapa foi constituída de avaliar a estrutura já desenvolvida no sem
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
-Implementar as funcionalidades essenciais de gerenciamento de registros de professores no sistema:
+Entendimento geral dos novos requisitos e alterações iniciais:
 - **RF 01:** Salvar Registro
 - **RF 02:** Ler Registro
 - **RF 03:** Atualizar Registro
@@ -31,7 +31,7 @@ Implementar as funcionalidades essenciais de gerenciamento de registros de profe
 <span id="entregas">
         
 ## :heavy_check_mark: Entregas
-Durante esta sprint, nossa equipe trabalhou em estreita colaboração para desenvolver e integrar as interfaces de usuário necessárias, garantir a validação adequada dos dados inseridos, e implementar a lógica de armazenamento e recuperação de registros no banco de dados. Cada membro da equipe desempenhou um papel vital na consecução dessas entregas, contribuindo com sua experiência e habilidades para alcançar os objetivos estabelecidos.
+Durante esta sprint, nossa equipe empenhou-se em realizar backlog futura constatado no semestre anterior e preparação da estrutura de trabalho para adequação da nova metodologia. Todos integrantes desempenharam papel importante nas entregas, contribuindo assim na conclusão de todos os objetivos estabelecidos.
 
 ### RF 01: Salvar Registro
 
