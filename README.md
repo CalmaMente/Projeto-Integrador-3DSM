@@ -47,72 +47,15 @@ O site oferece conteúdo e recursos personalizados para garantir que todos os us
 | 02 | 31/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-02/README.md) |
 | 03 | 19/06/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
 
-Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudessem auxiliar no controle e direcionamento técnico de cada integrante. Observe a relação a seguir:
-| Sprint | Previsão   | Status      | Descrição                                                                                     |
-|:------:|:----------:|:-----------:|:--------------------------------------------------------------------------------------------:|
-| 01     | 14/05/2024 | ✔️ Concluída | Criar o layout da tela de login                                                              |
-| 02     | 15/05/2024 | ✔️ Concluída | Criar o formulário de login                                                                  |
-| 03     | 19/05/2024 | ✔️ Concluída | Conectar o formulário ao backend para autenticação                                        |
-| 04     | 20/05/2024 | ✔️ Concluída | Testar funcionalidades de login e realizar correções                                            |
-| 05     | 02/06/2024 | ✔️ Concluída | Criar interface para exibir e gerenciar conteúdo                                                |
-| 06     | 20/04/2024 | ✔️ Concluída | Lógica, segurança e backup                                                                      |
-| 07     | 05/05/2024 | ✔️ Concluída | Testar acesso ao conteúdo                                                                 |
-| 08     | 07/05/2024 | ✔️ Concluída | Criar navegação entre as seções                                                           |
-| 09     | 09/05/2024 | ✔️ Concluída | Implementar botões ou links para a navegação                                                 |
-| 10     | 10/05/2024 | ✔️ Concluída | Testar a navegação entre as seções                                                           |
-| 11     | 12/05/2024 | ✔️ Concluída | Criar campo de busca                                                                      |
-| 12     | 12/05/2024 | ✔️ Concluída | Implementar lógica de busca no backend                                                    |
-| 13     | 05/11/2022 | ✔️ Concluída | Exibir resultados da busca na interface                                                         |
-| 14     | 20/11/2022 | ✔️ Concluída | Testar funcionalidade de busca                                                               |
-| 15     | 05/12/2022 | ✔️ Concluída | Criar interface para publicar informações                                                    |
-| 16     | 20/12/2022 | ✔️ Concluída | Implementar formulário para entrada de informações                                           |
-| 17     | 05/01/2023 | ✔️ Concluída | Conectar formulário ao backend para publicação                                               |
-| 18     | 20/01/2023 | ✔️ Concluída | Testar funcionalidade de publicação                                                          |
-| 19     | 05/02/2023 | ✔️ Concluída | Implementar validação de dados no frontend                                                   |
-| 20     | 20/02/2023 | ✔️ Concluída | Implementar validação de dados no backend                                                    |
-| 21     | 05/03/2023 | ✔️ Concluída | Testar validação de informações                                                              |
-| 22     | 20/03/2023 | ✔️ Concluída | Criar interface para alterar dados do usuário                                                |
-| 23     | 05/04/2023 | ✔️ Concluída | Conectar formulário ao backend para alterações                                               |
-| 24     | 20/04/2023 | ✔️ Concluída | Implementar formulário para alteração de dados                                               |
-| 25     | 05/05/2023 | ✔️ Concluída | Testar funcionalidade de alteração de dados e senhas                                         |
-| 26     | 20/05/2023 | ✔️ Concluída | Criar interface para configurar eventos                                                      |
-| 27     | 05/06/2023 | ✔️ Concluída | Implementar formulário para configuração de eventos                                          |
-| 28     | 20/06/2023 | ✔️ Concluída | Conectar formulário ao backend para salvar configurações                                     |
-| 29     | 05/07/2023 | ✔️ Concluída | Testar funcionalidade de configuração de eventos                                             |
-| 30     | 20/07/2023 | ✔️ Concluída | Criar design para mapear clínicas                                                            |
-| 31     | 05/08/2023 | ✔️ Concluída | Implementar backend para mapear clínicas                                                     |
-| 32     | 20/08/2023 | ✔️ Concluída | Testar mapeamento de clínicas                                                                |
-
+Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudessem auxiliar no controle e direcionamento técnico de cada integrante.
     
 → [Voltar ao topo](#Calmamente)
 
-<span id="tecnologias">
-
-## 🛠️ Tecnologias
-
-As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
-
-<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" />
-<img src="https://img.shields.io/badge/Jira-CED4DA?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
-<img src="https://img.shields.io/badge/Trello-CED4DA?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
-<img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
-<img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
-<img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 	 
-<img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  
-<img src="https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C" alt="Java" />
-<img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br>
-<img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> 
-<img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" />
-<img src="https://img.shields.io/badge/Google_Drive-CED4DA?style=for-the-badge&logo=google-drive&logoColor=4285F4" alt="Google Drive" />
-<img src="https://img.shields.io/badge/OneDrive-CED4DA?style=for-the-badge&logo=onedrive&logoColor=0078D4" alt="OneDrive" />
-<img src="https://img.shields.io/badge/Proven_by_Users-CED4DA?style=for-the-badge&logo=provenbyusers&logoColor=DC143C" alt="Proven by Users" />
-<img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
-    
-→ [Voltar ao topo](https://github.com/marcusvsbarros/projetoManufatura/blob/main/README.md)
 
 <span id="equipe">
 
-### :clapper: Demonstração das Telas
+## :clapper: Demonstração das Telas
+
 Confira a seguir uma demonstração das principais telas do site:
 <details>
    <summary>Página Inicial</summary>
@@ -151,6 +94,30 @@ Confira a seguir uma demonstração das principais telas do site:
 > - Interação Humano Computador: [clique aqui para acessar](./manual_usuario.pdf)
 > - Banco de Dados não relacional - API: [clique aqui para acessar](./manual_usuario.pdf)
 > - Engenharia de Software: [clique aqui para acessar](./manual_usuario.pdf)
+
+<span id="tecnologias">
+    
+## 🛠️ Tecnologias
+
+As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
+
+<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" />
+<img src="https://img.shields.io/badge/Jira-CED4DA?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
+<img src="https://img.shields.io/badge/Trello-CED4DA?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
+<img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
+<img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
+<img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 	 
+<img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  
+<img src="https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C" alt="Java" />
+<img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br>
+<img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> 
+<img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" />
+<img src="https://img.shields.io/badge/Google_Drive-CED4DA?style=for-the-badge&logo=google-drive&logoColor=4285F4" alt="Google Drive" />
+<img src="https://img.shields.io/badge/OneDrive-CED4DA?style=for-the-badge&logo=onedrive&logoColor=0078D4" alt="OneDrive" />
+<img src="https://img.shields.io/badge/Proven_by_Users-CED4DA?style=for-the-badge&logo=provenbyusers&logoColor=DC143C" alt="Proven by Users" />
+<img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
+    
+→ [Voltar ao topo](https://github.com/marcusvsbarros/projetoManufatura/blob/main/README.md)
 
 ## :busts_in_silhouette: Equipe
 
