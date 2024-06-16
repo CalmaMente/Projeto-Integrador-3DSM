@@ -1,5 +1,5 @@
 # Sprints
-Descrição das Sprints realizadas para o Projeto Integrador da Fatec Votorantim voltada a criação de um sistema de cadastro de professores para a unidade.
+Descrição das Sprints realizadas para o Projeto Integrador da Fatec Votorantim voltada a criação do site CalmaMente.com.
 <span id="topo">
 
 <h1 align="center">Sprint 1: 06/05/2024 a 14/05/2024</h1>
@@ -9,7 +9,7 @@ Descrição das Sprints realizadas para o Projeto Integrador da Fatec Votorantim
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
 </p>
 
-Nesta primeira sprint, nosso foco será no desenvolvimento das funcionalidades fundamentais para o gerenciamento de registros de professores no sistema. Essas funcionalidades incluem salvar, ler, atualizar e deletar registros. Ao agrupar essas tarefas em uma única sprint, buscamos estabelecer uma base sólida para o sistema, fornecendo funcionalidades essenciais que serão aprimoradas e expandidas nas iterações subsequentes. A colaboração entre os membros da equipe será fundamental para alcançar os objetivos propostos dentro do prazo estimado.
+A primeira etapa foi constituída de avaliar a estrutura já desenvolvida no semestre anterior, acompanhar os novos requisitos e buscar a preparação da nova estrutura de trabalho. 
 
 <span id="objetivos">
 
