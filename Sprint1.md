@@ -1,3 +1,8 @@
+<div align="center">
+    
+![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/CalmaMente%20capa.jpeg)
+</div>
+
 # Sprints
 Descrição das Sprints realizadas para o Projeto Integrador da Fatec Votorantim voltada a criação do site CalmaMente.com.
 <span id="topo">
