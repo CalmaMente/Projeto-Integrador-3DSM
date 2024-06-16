@@ -99,7 +99,7 @@ Confira a seguir uma demonstração das principais telas do site:
 ## 📚 Requisitos
 
 ![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
-![RNF](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
+![RNF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RNF.jpg)
 
 <span id="tecnologias">
     
