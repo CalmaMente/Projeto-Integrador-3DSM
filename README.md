@@ -95,6 +95,12 @@ Confira a seguir uma demonstração das principais telas do site:
 > - Banco de Dados não relacional - API: [clique aqui para acessar](./manual_usuario.pdf)
 > - Engenharia de Software: [clique aqui para acessar](./manual_usuario.pdf)
 
+
+## 📚 Requisitos
+
+![RF](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
+![RNF](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
+
 <span id="tecnologias">
     
 ## 🛠️ Tecnologias
