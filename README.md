@@ -44,7 +44,7 @@ O site oferece conteúdo e recursos personalizados para garantir que todos os us
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 01 | 30/04/2024 | ✔️ Concluída    | [ver relatório](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Sprint1.md) |
-| 02 | 31/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-02/README.md) |
+| 02 | 31/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Sprint2.md) |
 | 03 | 19/06/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
 
 Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudessem auxiliar no controle e direcionamento técnico de cada integrante.
