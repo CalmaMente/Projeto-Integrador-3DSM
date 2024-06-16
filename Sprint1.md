@@ -3,11 +3,8 @@
 ![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/CalmaMente%20capa.jpeg)
 </div>
 
-# Sprints
-Descrição das Sprints realizadas para o Projeto Integrador da Fatec Votorantim voltada a criação do site CalmaMente.com.
 <span id="topo">
-
-<h1 align="center">Sprint 1: 06/05/2024 a 14/05/2024</h1>
+<h1 align="center">Sprint 1: 01/04/2024 a 30/04/2024</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
