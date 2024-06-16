@@ -100,7 +100,7 @@ Confira a seguir uma demonstração das principais telas do site:
 > - Documentação geral: [clique aqui para acessar](./documentacao_geral.pdf)
 > - Técnicas de Programação: [clique aqui para acessar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/Apresenta%C3%A7%C3%A3o%20PI%20-%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o.pdf)
 > - Interação Humano Computador: [clique aqui para acessar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/devWeb%20-%20Cen%C3%A1rios.pdf)
-> - Banco de Dados não relacional - API: [clique aqui para acessar](./manual_usuario.pdf)
+> - Banco de Dados não relacional - API: [clique aqui para acessar](https://github.com/LJAMistik/ProjetoBDNSQL)
 
     
 ## 🛠️ Tecnologias
