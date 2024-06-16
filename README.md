@@ -98,7 +98,7 @@ Confira a seguir uma demonstração das principais telas do site:
 
 ## 📚 Requisitos
 
-![RF](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
+![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
 ![RNF](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
 
 <span id="tecnologias">
