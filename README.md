@@ -86,6 +86,14 @@ Confira a seguir uma demonstração das principais telas do site:
 
 ![Descrição da imagem](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
  
+## 📚 Requisitos
+
+![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
+<br>
+![RNF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RNF.jpg)
+
+<span id="tecnologias">
+
 ## :desktop_computer: Protótipo & Documentação
 
 > 🔗 **Links gerais** <br>
@@ -95,13 +103,6 @@ Confira a seguir uma demonstração das principais telas do site:
 > - Banco de Dados não relacional - API: [clique aqui para acessar](./manual_usuario.pdf)
 > - Engenharia de Software: [clique aqui para acessar](./manual_usuario.pdf)
 
-
-## 📚 Requisitos
-
-![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
-![RNF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RNF.jpg)
-
-<span id="tecnologias">
     
 ## 🛠️ Tecnologias
 
