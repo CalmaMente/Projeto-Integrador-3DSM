@@ -16,7 +16,7 @@ A primeira etapa foi constituída de avaliar a estrutura já desenvolvida no sem
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
-Entendimento geral dos novos requisitos e alterações iniciais:
+Entendimento geral dos requisitos funcionais e não funcionais:
 - **RF 01:** Salvar Registro
 - **RF 02:** Ler Registro
 - **RF 03:** Atualizar Registro
