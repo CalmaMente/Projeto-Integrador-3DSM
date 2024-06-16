@@ -26,7 +26,7 @@ A documentação abrange todos os aspectos do desenvolvimento do site, incluindo
 ## 📒 Metodologia
 O desenvolvimento seguiu uma abordagem interativa e incremental, utilizando práticas de desenvolvimento ágil (Scrum) para assegurar flexibilidade e adaptação às necessidades dos usuários. A documentação foi criada paralelamente ao desenvolvimento, permitindo ajustes contínuos com base no feedback dos stakeholders.
 
-## Identificação do público alvo
+## :busts_in_silhouette: Identificação do público alvo
 O site CalmaMente visa atender um público-alvo diversificado, incluindo indivíduos diagnosticados com TDAH, depressão e ansiedade, bem como seus familiares e amigos, profissionais de saúde mental, estudantes, pesquisadores e o público em geral. Cada grupo busca diferentes tipos de apoio e informação:
 
 Indivíduos com TDAH: Procuram informações sobre sintomas, causas, tratamentos, técnicas de organização e produtividade, e comunidades de apoio.
