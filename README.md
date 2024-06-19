@@ -72,7 +72,7 @@ Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudes
 
 ## 📚 Gerenciamento do Cronograma
 
-![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
+![Épicos](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/epics.jpg)
 
 <span id="backlog">
 
