@@ -14,7 +14,7 @@
    
 <span id="sobre">
     
-:pushpin: Status do Projeto : **Concluído** :heavy_check_mark:
+:pushpin: Status do Projeto : **Em andamento**
 
 ## :bookmark_tabs: Sobre o projeto
 CalmaMente é um projeto interdisciplinar desenvolvido com base nos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.  Apresenta-se como um site e futuramente um aplicativo de celular, cujo objetivo principal do é fornecer informações e apoio para pessoas de todas as idades que enfrentam desafios relacionados à saúde mental, como ansiedade, depressão e TDAH.
