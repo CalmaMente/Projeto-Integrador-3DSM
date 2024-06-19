@@ -31,7 +31,7 @@ O objetivo desta sprint é a integração da estrutura Front-End com o Back-End,
 <span id="entregas">
         
 ## :heavy_check_mark: Entregas
-Durante esta sprint, nossa equipe trabalhou de forma integrada, para acompanhar a finalização do projeto que será entregue em apresentação, seguindo as diretrizes da plataforma e os requisitos gerais do projeto.
+Durante esta sprint, nossa equipe trabalhou de forma separada, atribuindo tarefas especificas para cada integrante, mantendo sempre uma boa comunicação entre todos, para que o desenvolvimento do site ocorresse de maneira alinhada e nivelada com as espectativas e diretrizes da plataforma.
 
 ![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Files%20-%20Calmamente/WhatsApp%20Image%202024-06-19%20at%2010.14.51.jpeg)
 
