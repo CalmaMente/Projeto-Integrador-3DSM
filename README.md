@@ -9,7 +9,6 @@
     <a href="#publico">Publico</a>  |
     <a href="#sprints">Sprints</a>  |
     <a href="#backlog">Backlog</a>  |  
-    <a href="#telas">Demonstração das Telas</a>  |
     <a href="#prototipo">Protótipo & Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
@@ -60,35 +59,6 @@ Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudes
     
 → [Voltar ao topo](#Calmamente)
 
-<span id="telas">
-    
-## :clapper: Demonstração das Telas
-
-Confira a seguir uma demonstração das principais telas do site:
-<details>
-   <summary>Página Inicial</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084663-1e8ae95b-0c84-493c-b4ab-5cfcda5a4eb3.gif">
-    </div>
-</details>
-<details>
-   <summary>Login</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084712-de2d2905-dc65-41af-97e8-f980eff5f2d1.gif">
-    </div>
-</details>
-<details>
-   <summary>Cadastro Usuário</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084712-de2d2905-dc65-41af-97e8-f980eff5f2d1.gif">
-    </div>
-</details>
-<details>
-   <summary>Cadástro Profissional</summary>
-    <div align="center">
-        <img src="./usuario_administrador.gif">
-    </div>
-</details>
 
 ## 📚 Diagrama de Classes
 
