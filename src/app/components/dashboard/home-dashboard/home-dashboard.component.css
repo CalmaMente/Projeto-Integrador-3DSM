@@ -1,0 +1,39 @@
+/* // INSERIDO POR LAURA */
+
+.page {
+    color: #05C7F2;
+    padding: 0 1rem;
+    background: #05C7F2;
+  }
+  
+  .page__box {
+    min-height: 120px;
+    background: #0E4C73;
+    margin: 0 -1rem;
+    font-size: 36px;
+    padding: 15px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .page__content {
+    min-height: calc(100vh - 178px);
+    border-radius: 10px;
+    margin-top: -2rem;
+    background: #E9EEF2;
+    color: #05C7F2;
+    font-size: 2rem;
+  }
+    .page__content-data {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+    
+  .container-text p{
+    color: #0E4C73;
+    align-items: center;
+    text-align: center;
+  }
+
