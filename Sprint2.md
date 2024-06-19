@@ -11,26 +11,26 @@
     <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
 </p>
 
-Na primeira fase do desenvolvimento do site Calmamente, foram realizadas etapas cruciais para estabelecer uma base sólida para a plataforma. Esta fase inicial envolveu a verificação da estrutura já existente, assim como a validação da configuração das funções essenciais que formam o núcleo do site.
+A segunda fase do desenvolvimento do site Calmamente foi marcada por modificações estruturais iniciais, preparações para novas aplicações, atualização do frontend e o início do desenvolvimento do backend. Este conjunto de ações visou fortalecer a fundação do projeto e habilitar funcionalidades mais complexas e dinâmicas.
 
-Primeiramente, a equipe de desenvolvimento conduziu uma análise detalhada da estrutura tecnológica disponível. Isso incluiu a avaliação do servidor, banco de dados e framework de desenvolvimento que seriam utilizados. Foram realizados testes de desempenho e segurança para garantir que a infraestrutura pudesse suportar o tráfego previsto e proteger os dados dos usuários de forma eficaz. Essa análise permitiu identificar potenciais melhorias e ajustes necessários para otimizar a performance e a escalabilidade do site.
+Primeiramente, a equipe se concentrou na modificação da estrutura do projeto. Com base nas avaliações realizadas na fase anterior, foram implementadas melhorias na arquitetura do site para suportar futuras expansões e garantir uma integração eficiente entre diferentes componentes do sistema. Esta reestruturação incluiu a reorganização do código, otimização das bases de dados e a incorporação de tecnologias mais avançadas que permitiriam maior flexibilidade e escalabilidade.
 
-Paralelamente, iniciou-se a configuração das funções iniciais do Calmamente. Este processo envolveu a implementação e validação de funcionalidades básicas, tais como o sistema de cadastro e login de usuários, que é fundamental para garantir a personalização e segurança dos serviços oferecidos. Foram também configuradas as seções de recursos educativos e ferramentas de apoio, onde os usuários poderão acessar informações sobre ansiedade, depressão e TDAH, bem como utilizar técnicas práticas de enfrentamento.
+Em seguida, foi realizada uma atualização completa do frontend. O design da interface do usuário foi revisado para oferecer uma experiência mais intuitiva e visualmente atraente. Utilizando frameworks modernos de desenvolvimento web, como React e Vue.js, foram criadas interfaces interativas que facilitam a navegação e o acesso aos recursos do site. Essa atualização não só melhorou a estética e a usabilidade, mas também garantiu que o site fosse responsivo e acessível em diferentes dispositivos, incluindo smartphones e tablets.
 
-A validação dessas funções iniciais incluiu testes rigorosos para assegurar seu correto funcionamento. Isso envolveu a realização de testes de usabilidade com um grupo piloto de usuários, que forneceram feedback valioso sobre a navegação e a funcionalidade do site. Com base neste feedback, foram efetuados ajustes para melhorar a experiência do usuário e corrigir quaisquer inconsistências detectadas.
+Paralelamente, iniciou-se o desenvolvimento do backend, que é a espinha dorsal de todas as funcionalidades do site. A equipe adotou uma abordagem modular para construir serviços de backend utilizando tecnologias como Node.js e Express.js, que são conhecidas por sua eficiência e escalabilidade. Foram desenvolvidas APIs que permitem a comunicação entre o frontend e o backend, garantindo que os dados dos usuários sejam processados e armazenados de forma segura e eficiente.
 
-Além disso, foram definidas diretrizes para a criação de conteúdo, garantindo que todas as informações disponibilizadas no site sejam baseadas em evidências científicas e revisadas por profissionais de saúde mental. Esta abordagem visa assegurar que o Calmamente seja uma fonte confiável e eficaz de apoio para seus usuários.
+As principais funções do backend começaram a ser implementadas, incluindo a gestão de usuários, que abrange desde o cadastro e autenticação até a recuperação de senhas. Também foram iniciadas as configurações para as futuras aplicações interativas do site, como fóruns de discussão e sessões de terapia virtual, garantindo que a estrutura estivesse preparada para suportar essas funcionalidades complexas.
 
-Ao final desta primeira fase, o site Calmamente encontra-se com uma estrutura robusta e funcionalidades iniciais validadas, pronto para avançar para as próximas etapas de desenvolvimento. A equipe continua comprometida em criar uma plataforma que realmente faça a diferença na vida das pessoas, oferecendo um suporte acessível e de qualidade para aqueles que enfrentam transtornos de ansiedade, depressão e TDAH. 
+Ao final desta segunda fase, o site Calmamente apresentava uma estrutura significativamente aprimorada, com um frontend atualizado e atraente, e um backend em desenvolvimento que promete suportar as funcionalidades avançadas planejadas para o projeto. Este progresso crucial prepara o caminho para a próxima etapa do desenvolvimento, onde funcionalidades mais específicas e interativas serão introduzidas, continuando a jornada para criar um espaço acolhedor e eficaz para pessoas que enfrentam transtornos de ansiedade, depressão e TDAH. 
 
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
-O objetivo desta sprint é iniciar a aplicação das alterações no layout da página, e iniciar estruturação 
+O objetivo desta sprint é iniciar a aplicação das alterações no layout da página, e iniciar estruturação do BackEnd.
 
 <span id="entregas">
         
 ## :heavy_check_mark: Entregas
-Durante esta sprint, nossa equipe empenhou-se em realizar backlog futuro constatado no semestre anterior e preparação da estrutura de trabalho para adequação da nova metodologia. Todos integrantes desempenharam papel importante nas entregas, contribuindo assim na conclusão de todos os objetivos estabelecidos.
+Durante esta sprint, nossa equipe trabalhou de forma separada, atribuindo tarefas especificas para cada integrante, mantendo sempre uma boa comunicação entre todos, para que o desenvolvimento do site ocorresse de maneira alinhada e nivelada com as espectativas e diretrizes da plataforma.
 
 → [Voltar ao topo](#topo)
