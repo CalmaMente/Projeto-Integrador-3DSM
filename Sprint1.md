@@ -38,4 +38,4 @@ Entendimento geral dos requisitos funcionais e não funcionais, atualização do
 ## :heavy_check_mark: Entregas
 Durante esta sprint, nossa equipe empenhou-se em realizar backlog futuro constatado no semestre anterior e preparação da estrutura de trabalho para adequação da nova metodologia. Todos integrantes desempenharam papel importante nas entregas, contribuindo assim na conclusão de todos os objetivos estabelecidos.
 
-→ [Voltar ao topo](#topo)
+→ [Voltar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/tree/main)
