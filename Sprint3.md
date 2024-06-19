@@ -31,4 +31,4 @@ O objetivo desta sprint é a integração da estrutura Front-End com o Back-End,
 ## :heavy_check_mark: Entregas
 Durante esta sprint, nossa equipe trabalhou de forma separada, atribuindo tarefas especificas para cada integrante, mantendo sempre uma boa comunicação entre todos, para que o desenvolvimento do site ocorresse de maneira alinhada e nivelada com as espectativas e diretrizes da plataforma.
 
-→ [Voltar ao topo](#topo)
+→ [Voltar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/tree/main)
