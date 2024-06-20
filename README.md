@@ -44,6 +44,17 @@ O site oferece conteúdo e recursos personalizados para garantir que todos os us
 
 <span id="sprints">
 
+
+## 📚 Diagrama de Classes
+
+![Descrição da imagem](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
+ 
+## 📚 Requisitos
+
+![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
+<br>
+![RNF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RNF.jpg)
+
 ## 🏁 Entregas de Sprints
 
 | Sprint | Previsão | Status | Histórico |
@@ -56,16 +67,6 @@ Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudes
 
 > - Projeto - Jira: [clique aqui para acessar](https://calmamente.atlassian.net/jira/software/projects/SCRUM/boards/1)
 
-
-## 📚 Diagrama de Classes
-
-![Descrição da imagem](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
- 
-## 📚 Requisitos
-
-![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
-<br>
-![RNF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RNF.jpg)
 
 ## 📚 Gerenciamento do Cronograma
 
