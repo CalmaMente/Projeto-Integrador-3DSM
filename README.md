@@ -56,9 +56,6 @@ Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudes
 
 > - Projeto - Jira: [clique aqui para acessar](https://calmamente.atlassian.net/jira/software/projects/SCRUM/boards/1)
 
-    
-→ [Voltar ao topo](#Calmamente)
-
 
 ## 📚 Diagrama de Classes
 
@@ -115,7 +112,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Proven_by_Users-CED4DA?style=for-the-badge&logo=provenbyusers&logoColor=DC143C" alt="Proven by Users" />
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
     
-→ [Voltar ao topo](https://github.com/marcusvsbarros/projetoManufatura/blob/main/README.md)
 
 <span id="equipe">
 
